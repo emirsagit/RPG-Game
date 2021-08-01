@@ -1,14 +1,8 @@
 # A RPG Game Created By Pure JavaScript
 
-![screenshot](./app_screenshot.jpg)
-
 ## Built With
 
 - HTML, CSS, JavaScript
-
-## Live
-
-<!-- [Snake Game ](https://emirsagit.github.io/snake-game/) -->
 
 ## Getting Started
 
